@@ -136,7 +136,7 @@
         android:layout_marginTop="36dp"
         android:text="Compute"
         android:textColorLink="#2F4F4F"
-        app:iconTint="#000000"
+        app:iconTint="#2F4F4F"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/et_Num5"/>
